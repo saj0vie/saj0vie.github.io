@@ -1,0 +1,11 @@
+Package: com.saj0vie.hideupdatedots
+Name: hideUpdateDots
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Hide dots that appear after an app is updated.
+Maintainer: saj0vie
+Author: saj0vie
+Section: Tweaks
+Version: 1.0
+Depiction: https://saj0vie.github.io/depictions/com.saj0vie.hidepdatedots/depiction.html
+Installed-Size: 120
